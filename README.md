@@ -1,4 +1,3 @@
-<img align="center" width=50% height=50% src="assets/gtrace.png">
 
 # **GTrace (GUI Trace)**
 
