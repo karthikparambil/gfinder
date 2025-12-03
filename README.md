@@ -1,3 +1,5 @@
+<img align="center" width=50% height=50% src="assets/gtrace_logo.png">
+
 # **GTrace (GUI Trace)**
 
 **GTrace** is a powerful, locally-hosted web utility to perform deep system enumeration, regex pattern matching, and artifact hunting across your local file system.
